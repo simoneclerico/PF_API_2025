@@ -21,7 +21,7 @@ Each hexagon has an integer *exit cost* (1–100). A cost of 0 means the hex is 
 | `toggle_air_route <x1> <y1> <x2> <y2>` | Add or remove a directed air route from `(x1,y1)` to `(x2,y2)` |
 | `travel_cost <xp> <yp> <xd> <yd>` | Return the minimum-cost path from source to destination (`-1` if unreachable) |
 
-Full specification: [`specifica_progetto_api_2024_2025.pdf`](specifica_progetto_api_2024_2025.pdf)
+Full specification: [`specifica_progetto_api_2024_2025.pdf`](doc/specifica%20progetto%20api%202024_2025.pdf)
 
 ## Implementation highlights
 
